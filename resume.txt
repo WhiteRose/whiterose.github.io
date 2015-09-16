@@ -1,4 +1,4 @@
-       (0)>> Contact:       <> Elliot Patrick Murphy <>             <<)
+        (0)>> Contact:       <> Elliot Patrick Murphy <>             <<)
           |                                                          |
           | Street...: $STREET           GH...: github.com/whiterose |
           | City.....: $CITY             Url......: whitero.se       |
@@ -17,7 +17,7 @@
           |  Develop features, coordinate open-source releases,      |
           |  maintain service.                                       |
           |                                                          |
-          | Aug 2013 - Mar 2014                                      |
+          | June 2015 - August 2015                                  |
           |  Information Security Intern - Fortune 500 Corp          |
           |  Focus upon defensive (blue team) cyber-security         |
           |  scenarios and attack mitigation.                        |
