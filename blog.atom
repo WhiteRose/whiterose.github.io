@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0">
+  <id>https://whitero.se/</id>
+  <title>Elliot Murphy</title>
+
+  <updated>2015-08-20T00:00:00Z</updated>
+
+  <author><name>Elliot Murphy</name></author>
+  <link href="https://whitero.se/" rel="alternate"></link>
+  <generator uri="http://github.com/piranha/gostatic/">gostatic</generator>
+
+
+</feed>

@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/whiterose
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://whitero.se
+  * I am whiterose (https://keybase.io/whiterose) on keybase.
+  * I have a public key with fingerprint 59EA 8061 CCD4 CAAC 9639  66F0 D802 732A 7351 1626
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "59ea8061ccd4caac963966f0d802732a73511626",
+            "host": "keybase.io",
+            "key_id": "d802732a73511626",
+            "kid": "01019209bb3c4c490de23d645a81391dfac3f8dc88007bcfec352473a7e29d0dfedc0a",
+            "uid": "249233040558e8055d77b1fc90667319",
+            "username": "whiterose"
+        },
+        "service": {
+            "hostname": "whitero.se",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1439700487,
+    "expire_in": 157680000,
+    "prev": "537f25bd14348d802ef86a523071ec954a2f838ca8998c7711631cc59962aeb0",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: The clock is ticking.
+
+owFtUm1QVFUAXYhId2ICFo0wbfeJ4Kw7eN/3ewuI06gMmJBhGaRs7913HzzAfct+
+8KFCSCO41Rg6jFbiQDGFrqiNkUwzFlRmMrTlpnxk4YCkVsY049fMDkv1HlM/munP
+vXPPPefce869bXEPGYxR49Eeq2fz4rSo4V9Fw/OXFifswkRVqsfsu7BKND/JirMM
+uV1uxenF7BjNI4EDDA6hREFBgDxD8gwjA4kDBEsSAkvSOM4QDGbDylWPrtBsRMGD
+MhRVw7SFQ5E09H/4lfMbAAc4TwBeFElIQYoHEiJIiaFogcNJHpdkAZIyJ0GOA4AV
+oYwgSRMUSwosIngJSDKSIBA0O9+8HUHxBEkCCtA0hzhtlFhWxGXIA4ZhSZzXiR7k
+dgo7kMauLVe8yK16ENZgwzS4RoFI70CP8l9KhsaxYS636lWhWqXh5V6vy2PXdd56
+1zwRiY5/LByi4pS0GjVFDXJ7FNWJ2XGNCb2K7olTJM8CQHGsDUN1LsWNHIrOoFlG
+CwmAfg6q0csnWZmgRUkTUJzeIJI5RqAJErA4gjxNCYTMkRwUOJ7nIMtqzZLaS9E8
+zxACEgGmh6p2qpid0q4plGmWHqXMKXh9bi1xlNEf/WSMIcpoiH04Wv8KBuPC+H//
+x+NivKGjtE9ILW7OOWU7f3TTgUjDnYqb6OplxzNtS9cUd0/RgbqMiZUubPCDtNKp
+b9+Fdv8eofntBnxjZxrzzV/hmOzGF80VY0esHw+a8hbwKLPlq7WJpcFHidbBuDUo
+u+GgxfR6ODjd9fUWqfBi7/TWVT5jqLnxz6yOL4ps9wo+7Snclx+Xkk6GPwpe2FJ9
+dmlv8uzqZStOnKG7uho2ixv2nB6eCwwoppRVk+pk9qmZ26jg5O9RRceuJT9Sz37G
+Tm/zVyaFIz+AjS3hu+LIoYoLJQUvvDwb4M8dSOvkvgwnPX3ribqmZy0pW/1v1YQ7
+JtLH5FDb+JHxncpjSdsOX0ww98O8zKZ8u3NktnL86isz+44bbbmmYG7Omxs6TSfN
+sWVDeYaO9xcNvDocjIzcCuV+vru3tcT2s+W5wvRId/XQd1TotamSpp8MM+veCHOh
+vJ5Fu0O3A9GfLGDUX5Y5rvQEwmdWvnclebSpaqB2NNV69yiKTO5PDBfVWkJnj99Z
+0ee03m9pSpReGrphLTxxPWk0VXhqlsy6tGTHveaqP/Bpc/v29MuKP2am338/0toY
+17l8+eBaX9/e3O+huMT8zhxTn5n/4bHgRMXOhMqF56vbs879eMjrGyvxDRBmT3xx
+oN3RVm5JrNkb2/1g/01//3pb49zp1e3X1w37ciZ63LTvt2vbN1U/qL3xNw==
+=okyX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/whiterose
+
+==================================================================

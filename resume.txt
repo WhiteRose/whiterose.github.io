@@ -1,0 +1,66 @@
+      (0)>> Contact:       <> Elliot Patrick Murphy  <>             <<)
+          |                                                          |
+          | Street...: $STREET           GH...: github.com/whiterose |
+          | City.....: $CITY             Url......: whitero.se       |
+          | Country..: United States     Format...: Human            |
+          | Phone....: 202-xxx-xxxx      Supply...: ???              |
+          | Email....: admin@whitero.se  Date.....: Sept 15th, 2015  |
+          | IRC......: WhiteRose on Freenode, EFnet, others...       |
+          |                                                          |
+       (1)>> Work Experience:                                       <<)
+          |                                                          |
+          | August 2015 - Present                                    |
+          |  Information Assurance Engineer - Defense Contractor     |
+          |  Focus on offensive cyber-security development           |
+          |  with a particular focus on cryptography and malware     |
+          |  reverse engineering.                                    |
+          |  Develop features, coordinate open-source releases,      |
+          |  maintain service.                                       |
+          |                                                          |
+          | Aug 2013 - Mar 2014                                      |
+          |  Information Security Intern - Fortune 500 Corp          |
+          |  Focus upon defensive (blue team) cyber-security         |
+          |  scenarios and attack mitigation.                        |
+          |  Experience in hardening web apps and web services       |
+          |  security vulnerabilities.                               |
+          |  Experience with security tools including Nmap, Kali,    |
+          |  Metasploit, and Burp Suite                              |
+          |                                                          |
+       (2)>> Education:                                             <<)
+          |                                                          |
+          | 2013-2017 BSc. Mathematics and IT                        |
+          |  University of Central FL - Orlando, FL, USA             |
+          |  In Progress - Major GPA Approx 3.5/4.00 GPA             |
+          |                                                          |
+       (3)>> Skills:                                                <<)
+          |                                                          |
+          |  OS: Linux, Windows, OS X                                |
+          |  Programming: C(++), Ruby, Java, Python, Assembly        |
+          |  Scientific: Matlab/Octave/Mathematica/R                 |
+          |  Security: IDA Pro, Radare2, GDB, reverse engineering,   |
+          |   software exploitation.                                 |
+          |                                                          |
+       (4)>> Projects:                                              <<)
+          |                                                          |
+          | CTF:                                                     |
+          |  Participate in security Capture the Flag competitions   |
+          |  with KnightSec team.                                    |
+          |                                                          |
+          | Skeleton:                                                |
+          |  Pending release, generalized decryption utility for     |
+          |  unknown cryptographic entities. Signature detection     |
+          |  based upon commonly associated trends and traits.       |
+          |                                                          |
+       (5)>> Release Notes:                                         <<)
+          |                                                          |
+          | Most of my free time is spent solving cryptographic      |
+          | challenges posed to me by friends, coworkers, and        |
+          | others in my field.                                      |
+          | I enjoy software security research, and contributing     |
+          | to open source software projects. I am quite fond of     |
+          | reverse engineering, exploitation, and developing tools  |
+          | to assist with these tasks!                              |
+          |                                                          |
+         /|                                                          |\
+        /_|\(>>   " All's fair in love, war, and crypto "        <<)/|_\
+          :                                                          :
