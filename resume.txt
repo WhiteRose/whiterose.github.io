@@ -1,4 +1,4 @@
-       (0)>> Contact:       <> Elliot Patrick Murphy  <>            <<)
+       (0)>> Contact:       <> Elliot Patrick Murphy <>             <<)
           |                                                          |
           | Street...: $STREET           GH...: github.com/whiterose |
           | City.....: $CITY             Url......: whitero.se       |
